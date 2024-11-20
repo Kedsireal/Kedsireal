@@ -26,7 +26,6 @@
 ---
 
 #### Связь со мной:
-- **GitHub**: [https://github.com/Kedsireal]  
-- **Telegram**: [https://t.me/kedsireal]  
+[**GitHub**](https://github.com/Kedsireal), [**Telegram**](https://t.me/kedsireal)
 
 Буду рад обменяться опытом, поработать над проектами или просто пообщаться! 😊
